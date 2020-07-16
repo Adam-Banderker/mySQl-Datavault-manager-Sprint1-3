@@ -1,0 +1,14 @@
+id,product_id,product_name,category,price
+1,A001,Simba,Chips,17.99
+2,A002,Lays,Chips,15.99
+3,A003,Cadbury,Chocolate,29.99
+4,A004,Tex,Chocolate,7.99
+5,A005,"Pepper Steak",Pies,79.99
+6,A006,Chicken,Pies,49.99
+7,A007,Pear,Fruits,24.99
+8,A008,Apple,Fruits,29.99
+9,A009,Orange,Fruits,34.99
+10,A010,Vanilla,Cupcakes,29.99
+11,A011,Chocolate,Cupcakes,39.99
+12,A012,Spinach,Veggies,12.99
+13,A013,Cabbage,Veggies,16.00
